@@ -3,6 +3,16 @@ body {
     width: 70%;
 }
 
+.me-intro {
+    float: left;
+    margin-left: 20px;
+    font-weight: 300;
+    font-size: 20px;
+    color: gray;
+    width: 400px;
+    padding-top: 10px;
+}
+
 #me-img {
     position: relative;
     float: left;
