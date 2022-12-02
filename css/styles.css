@@ -3,6 +3,11 @@ body {
     width: 70%;
 }
 
+.center-600 {
+    margin: 0 auto;
+    width: 80%;
+}
+
 .me-intro {
     float: left;
     margin-left: 20px;
