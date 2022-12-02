@@ -2,6 +2,17 @@ body {
     margin: 60px auto;
     width: 70%;
 }
+
+#me-img {
+    position: relative;
+    float: left;
+    opacity: 0.85;
+
+   transition: opacity 1s;
+   -moz-transition: opacity 1s;
+   -webkit-transition: opacity 1s;
+} #me-img:hover { opacity: 1; }
+
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
@@ -16,6 +27,7 @@ a {
     text-decoration: none;
     color: #999;
 }
+
 a:hover {
     text-decoration: underline;
 }
