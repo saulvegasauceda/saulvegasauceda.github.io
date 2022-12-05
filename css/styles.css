@@ -41,16 +41,16 @@ nav ul li, footer ul li {
 
 a {
     text-decoration: none;
-    color: #9A4A4A;
+    color: #495A99;
 }
 
 a:hover {
-    color: #DC6A6A !important;
-    text-shadow: 0.5px 0px 0.1px #9A4A4A;
-    text-decoration: underline overline;
+    color: #6A81DC !important;
+    text-shadow: 0.5px 0px 0.1px #495A99;
+    text-decoration: underline;
 }
 
-a:visited { color: #9A4A4A; }
+a:visited { color: #495A99; }
 
 
 h1 {
